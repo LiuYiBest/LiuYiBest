@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ JavaScript / C++
 - 👯 China / FJ
 
-[![LiuYibest's github stats](https://github-readme-stats.vercel.app/api?username=LiuYiBest&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![LiuYibest's github stats](https://github-readme-stats.vercel.app/api?username=LiuYiBest&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
