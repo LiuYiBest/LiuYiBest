@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 
 
 -->
-- ⚡ JavaScript / HTML
+- ⚡ Language：JavaScript / HTML
+- 😄 Pronouns: Vue / React
 - 👯 China / FJ
 
 
