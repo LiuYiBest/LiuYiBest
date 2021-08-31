@@ -10,9 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 -  Ask me about ...
 
-  <div>
- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
- </div>
+
 -->
 - ⚡ JavaScript / C++
 - 👯 China / FJ
@@ -20,8 +18,9 @@ Here are some ideas to get you started:
 
   <div>
  [![LiuYibest's github stats](https://github-readme-stats.vercel.app/api?username=LiuYiBest&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
  </div>
 
-
+  <div>
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LiuYiBest&layout=compact&theme=material-palenight" />
+ </div>
 
