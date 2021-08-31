@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 
 -->
-- ⚡ JavaScript / C++
+- ⚡ JavaScript / HTML
 - 👯 China / FJ
 
 
