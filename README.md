@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 
 
 -->
-- ⚡ Language：JavaScript / HTML
+- ⚡ Language：JavaScript 
 - 😄 Pronouns: Vue / React
-- 👯 China / FJ
+- 👯 Address：China / FJ
 
 
   <div>
