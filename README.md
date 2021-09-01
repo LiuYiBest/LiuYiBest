@@ -22,9 +22,9 @@ Here are some ideas to get you started:
   <span>
  [![LiuYibest's github stats](https://github-readme-stats.vercel.app/api?username=LiuYiBest&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  </span>
-  <span>
+  <p>
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LiuYiBest&layout=compact&theme=material-palenight" />
- </span>
+ </p>
 
 
 
