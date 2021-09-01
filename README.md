@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - 👯 Address：China / FJ
 
 
-  <div>
+  <span>
  [![LiuYibest's github stats](https://github-readme-stats.vercel.app/api?username=LiuYiBest&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
- </div>
+ </span>
 
 
 
