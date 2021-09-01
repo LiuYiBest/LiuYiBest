@@ -22,6 +22,9 @@ Here are some ideas to get you started:
   <span>
  [![LiuYibest's github stats](https://github-readme-stats.vercel.app/api?username=LiuYiBest&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  </span>
+  <span>
+ [![LiuYibest's github stats](https://github-readme-stats.vercel.app/api?username=LiuYiBest&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ </span>
 
 
 
