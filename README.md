@@ -26,6 +26,11 @@ https://img.shields.io/badge/{徽标标题}-{徽标内容}-{徽标颜色}.svg
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=plastic&logo=typescript)
 
+- 💻 I work using:
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  
 - 😄 Pronouns:
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
