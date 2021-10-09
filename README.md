@@ -15,6 +15,9 @@ Here are some ideas to get you started:
  </p>
 https://img.shields.io/badge/{徽标标题}-{徽标内容}-{徽标颜色}.svg
 
+mins   </hr>
+ <img width="500px" style="margin-bottom: 10px" height="170px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=WesleySong&hide_title=true" />
+
 -->
 - ⚡ I Use：
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
@@ -37,8 +40,7 @@ https://img.shields.io/badge/{徽标标题}-{徽标内容}-{徽标颜色}.svg
   <span>
  [![LiuYibest's github stats](https://github-readme-stats.vercel.app/api?username=LiuYiBest&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  </span>
- </hr>
- <img width="500px" style="margin-bottom: 10px" height="170px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=WesleySong&hide_title=true" />
+
 
 
 
