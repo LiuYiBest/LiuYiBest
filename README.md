@@ -34,6 +34,4 @@ mins   </hr>
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-<!--  👯 Address：China / FuJian -->
-
-
+- 👯 Address：China  
