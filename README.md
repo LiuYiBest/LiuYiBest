@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 https://img.shields.io/badge/{徽标标题}-{徽标内容}-{徽标颜色}.svg
 
 mins   </hr>
- <img width="500px" style="margin-bottom: 10px" height="170px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=WesleySong&hide_title=true" />
 
 -->
 - ⚡ I Use：
