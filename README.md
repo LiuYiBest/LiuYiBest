@@ -4,9 +4,7 @@
 **LiuYiBest/LiuYiBest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-  <p>
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LiuYiBest&layout=compact&theme=material-palenight" />
- </p>
+
 https://img.shields.io/badge/{徽标标题}-{徽标内容}-{徽标颜色}.svg
 
 
